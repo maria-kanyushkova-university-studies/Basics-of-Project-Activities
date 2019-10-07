@@ -75,3 +75,8 @@
 
 ## Диаграмма Ганта
 [Таблица](https://drive.google.com/file/d/1QX1W4_crb_ykSuui13o96NKwPsijhzX6/view?usp=sharing)
+
+## Программа обучения
+  1. Изучение требований сервиса
+  2. Изучение php + yii2
+  3. Создание веб-сервиса с backend и frontend частью
