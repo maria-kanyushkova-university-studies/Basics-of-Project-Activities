@@ -61,3 +61,14 @@
      2. Microsoft Edge
      3. Mozilla Firefox: начиная с версии 60
      4. Opera : начиная с версии 36
+
+## Скетчи
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/partner.png)
+
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/certificate-list.png)
+
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/certificate-form.png)
+
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-list.png)
+
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-form.png)
