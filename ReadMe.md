@@ -72,3 +72,6 @@
 ![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-list.png)
 
 ![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gift-form.png)
+
+## Диаграмма Ганта
+![Таблица](https://drive.google.com/file/d/1QX1W4_crb_ykSuui13o96NKwPsijhzX6/view?usp=sharing)
