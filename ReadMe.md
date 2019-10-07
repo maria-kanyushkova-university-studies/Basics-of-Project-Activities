@@ -71,4 +71,4 @@
 
 ![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-list.png)
 
-![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-form.png)
+![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gift-form.png)
