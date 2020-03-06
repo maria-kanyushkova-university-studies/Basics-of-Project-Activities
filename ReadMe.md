@@ -1,4 +1,4 @@
-# Проект: Исполение желаний
+# Проект: Индивидуальный проект
 ## Назначение сайта
   - Электронная продажа продуктов и услуг компании.
   - Реклама услуг компании и предлагаемых ей продукции, расширение потребительской аудитории, систематизированное размещение данных о продуктах, услугах, специальных предложений для покупателей.
@@ -72,9 +72,6 @@
 ![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gifts-list.png)
 
 ![admin-panel](https://github.com/maria-kanyushkova/Basics-of-Project-Activities/blob/master/admin-images/gift-form.png)
-
-## Диаграмма Ганта
-[Таблица](https://drive.google.com/file/d/1QX1W4_crb_ykSuui13o96NKwPsijhzX6/view?usp=sharing)
 
 ## Программа обучения
   1. Изучение требований сервиса
